@@ -1,0 +1,37 @@
+Hot Air Balloon Game
+
+Story:
+You are in a hot air balloon and you are tring to get to your destination fast. But on the way you encounter some birds and other ostacles which you have to try and dodge because if they hit you, your hot air balloon will be destroyed and you will die.
+
+Goal:
+Dodge all the obstacles and reach your destination safely
+
+Characters:
+NPC - the birds and the obstacles
+PC -  the hot air balloon
+
+Rules:
+1. Use the left, right, up , down arrow keys to move the hot air balloon
+2. The birds and the other oblacles must move towards the hot air balloon
+3. You can collect power-ups by going over them
+
+Adaptivity:
+1. Give the player 3 lives
+2. With higher score more obstacles should appear
+3. Power-ups should be added to help the player
+
+Game compatability:
+Players on all devices must be able to play the game
+
+Tools needed:
+VS code editor
+
+Animations and Sound:
+Images-
+1. We will need a background image
+2. We need an image for the hot air balloon and the obstacles
+3. The image for the hot air balloon must change every time the player hist an obstacle
+Sounds-
+1. End sound when thehot air balloon is destroyed 
+2. background music
+3. We need a sound when the player collects a power up
